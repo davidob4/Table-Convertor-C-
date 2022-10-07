@@ -1,0 +1,3 @@
+my files are all called "x"
+
+do for example: dotnet run -i x.json -o x.html
